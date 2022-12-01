@@ -1,0 +1,14 @@
+.IMAGENAME {
+font-size: medium;
+font-weight: bold;
+color: blue;
+text-align: center
+}
+#titile {
+font-size: larger;
+font-weight: bolder;
+color:darkorange;
+text-align: center;
+margin: top 10px;
+
+}
